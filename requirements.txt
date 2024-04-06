@@ -1,1 +1,5 @@
 pandas
+tensorflow
+transformers
+tf-keras
+scikit-learn
