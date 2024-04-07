@@ -6,3 +6,12 @@ https://github.com/kavgan/stop-words/blob/master/terrier-stop.txt
   journal={arXiv preprint arXiv:2403.03952},
   year={2024}
 }
+
+@misc {hf_canonical_model_maintainers_2022,
+	author       = { {HF Canonical Model Maintainers} },
+	title        = { distilbert-base-uncased-finetuned-sst-2-english (Revision bfdd146) },
+	year         = 2022,
+	url          = { https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english },
+	doi          = { 10.57967/hf/0181 },
+	publisher    = { Hugging Face }
+}

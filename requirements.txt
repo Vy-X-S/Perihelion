@@ -3,3 +3,6 @@ tensorflow
 transformers
 tf-keras
 scikit-learn
+tqdm
+sentencepiece
+torch
